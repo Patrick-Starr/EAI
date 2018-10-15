@@ -1,3 +1,4 @@
+package sector;
 public class Inventory {
 
 	public Inventory() {
